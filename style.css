@@ -1,0 +1,17 @@
+body{
+    background-color: #31313f;
+}
+.block{
+    background-color: #9191c4;
+    min-height: 100vh;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+    text-align: center;
+}
+.block h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.block p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
